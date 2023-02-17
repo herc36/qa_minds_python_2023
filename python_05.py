@@ -33,7 +33,7 @@ def es_par(numero):
 num1 = int(input("Numero A: "))
 num2 = int(input("Numero B: "))
 temp = float(input("Ingrese temperatura en °C: "))
-var1 = input("Ingrese un numero para convertir a entero: ")
+var1 = float(input("Ingrese un numero para convertir a entero: "))
 var2 = input("Ingrese un numero para convertir a flotante: ")
 numero = int(input("Ingrese un numero para saber si es par o impar: "))
 print(f"Resultado suma: {suma(num1,num2)}")
