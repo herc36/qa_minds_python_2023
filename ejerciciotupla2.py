@@ -13,5 +13,4 @@ for num in f1:
     if num % 2 == 0:
         np += 1
 my_clone.sort()
-
 print(my_clone)
